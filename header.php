@@ -11,5 +11,4 @@
     <title>Hello, world!</title>
 </head>
 <body>
-<h1>Hello, world!</h1>
-<?php
+<h1>Hello from first PHP!</h1>
