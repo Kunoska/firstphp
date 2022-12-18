@@ -1,4 +1,4 @@
-!doctype html>
+<!doctype html>
 <html lang="en">
 <head>
     <!-- Required meta tags -->
@@ -11,4 +11,4 @@
     <title>Hello, world!</title>
 </head>
 <body>
-<h1>Hello from first PHP!</h1>
+
